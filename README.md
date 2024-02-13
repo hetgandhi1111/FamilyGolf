@@ -1,7 +1,7 @@
 # FamilyGolf⛳
-🏌️‍♂️⛳ Welcome to [Your Golf Website Name] - Where Passion Meets Precision! ⛳🏌️‍♀️
+🏌️‍♂️⛳ Welcome to Family Golf - Where Passion Meets Precision! ⛳🏌️‍♀️
 
-Embark on a golfing journey like never before at [Your Golf Website Name]. Nestled at the intersection of family fun and golfing excellence, our destination offers an array of exciting features that cater to golf enthusiasts of all ages and skill levels. Allow us to introduce you to our unique offerings:
+Embark on a golfing journey like never before at FamilyGolf. Nestled at the intersection of family fun and golfing excellence, our destination offers an array of exciting features that cater to golf enthusiasts of all ages and skill levels. Allow us to introduce you to our unique offerings:
 
 🌐 Tech-Infused Excellence:
 Experience golfing innovation with our state-of-the-art technology stack. Powered by HTML, CSS, and JavaScript, our website is designed for seamless navigation, immersive visuals, and interactive elements. We utilize GSAP (GreenSock Animation Platform) to bring dynamic and engaging animations, enhancing your online golfing experience.
